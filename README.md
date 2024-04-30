@@ -6,3 +6,5 @@ Plus, you'll learn how to work with the popular GitHub website to explore existi
 
 This is a footnote [^1]. This is another footnote [^2]
 
+[^1]: My reference
+[^2]: Another footnote
